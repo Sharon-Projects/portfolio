@@ -1,6 +1,6 @@
 # Data Analyst
 
-###Education
+### Education
 Secure Software Development Certificate - University of Ottawa
 BA History/Political Science - University of Victoria
 Data Analyst courses
