@@ -1,9 +1,14 @@
 # Data Analyst
 
 ### Education
-Secure Software Development Certificate - University of Ottawa
+Google Data Analytics Professional Certificate - in progress
+Secure Software Development Certificate - University of Ottawa - in progress
 BA History/Political Science - University of Victoria
-Data Analyst courses
+
+### Certifications and Credentials
+Python - Certified Entry-Level Python Programmer [PCEP-30-02]
+Learn JavaScript O'Reilly credential
+Introduction to Front-End Development Coursera credential
 
 ### Work Experience
 Naval Logistics Officer @ Royal Canadian Navy
